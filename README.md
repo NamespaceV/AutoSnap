@@ -1,3 +1,11 @@
-# Krong season 2
-Organised by Wiolarz a regular meeting with people interested in learning Godot.
-This time each meeting will have it's own separete branch
+# Krong Small Games
+
+Original Krong Godota repository:
+https://github.com/Wiolarz/Krong
+switched solely to Polyspear game  developemnt.
+
+This new reposiotory is intended to separate Polyspear and other projects development.
+
+`main` branch here is fork of `Project_Template` branch - https://github.com/Wiolarz/Krong/tree/Project_Template
+
+new branches will be added for small projects
