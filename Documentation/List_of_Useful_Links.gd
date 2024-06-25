@@ -12,7 +12,7 @@ class Coding_Introduction:
 	# https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html
 
 	"""
-	
+
 
 	var Code_styles
 	"""
@@ -23,7 +23,7 @@ class Coding_Introduction:
 
 	"""
 	How You Can Easily Make Your Code Simpler in Godot 4
-	https://youtu.be/74y6zWZfQKk 
+	https://youtu.be/74y6zWZfQKk
 	7 minut wyjaśnienie konceptu dzieleniu kodu w projekcie na mniejsze fragmenty
 	"""
 
@@ -70,7 +70,7 @@ class UserInterface:
 	8min Godot 4 Save and Load Tutorial using the new FileAccess class
 	https://youtu.be/jGpG58MQf_I?si=Gl6EdoHA8mUifer4
 	"""
-	
+
 	var Pausing
 	"""
 	4min GAME PAUSE in Godot IN UNDER 4 MINUTES
