@@ -6,4 +6,4 @@ Auto Chess + Marvel Snap
 
 Very basic template stage
 
-Fork created for small tweaks liek style and code
+Fork created for small tweaks like style and code
