@@ -1,13 +1,9 @@
-# Krong Small Games
+# AutoSnap fork
 
-Original Krong Godota repository:
-https://github.com/Wiolarz/Krong
-switched solely to Polyspear game  developemnt.
+For original see https://github.com/Wiolarz/Krong
 
-This new reposiotory is intended to separate Polyspear and other projects development.
+Auto Chess + Marvel Snap
 
-`main` branch here is fork of `Project_Template` branch - https://github.com/Wiolarz/Krong/tree/Project_Template
+Very basic template stage
 
-new branches will be added for small projects
-
-- `snap` - branch for card game
+Fork created for small tweaks liek style and code
